@@ -7,9 +7,9 @@ Previously worked on JVM, compiler front-end, and IDE.
 
 # Work Experience
 
-2022-    	[Huawei, Cloud](https://www.huaweicloud.com/)	- System Virtualization Software Engineer
+2022-    	Huawei Cloud, System Virtualization Software Engineer
 
-2018-2022	Huawei, Programming Language and Compiler Lab - Software Engineer
+2018-2022	Huawei, Programming Language and Compiler Lab, Software Engineer
 
 # Education
 
