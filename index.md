@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi, I'm a Programmer.
 
-Maybe say a some things about yourself.
+Previously worked on JVM, compiler front-end, and IDE.
 
-Or maybe what you plan to blog about.
+Current work involves system virtualization.
